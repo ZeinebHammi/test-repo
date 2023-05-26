@@ -7,3 +7,4 @@ bash shell script hello word without selecting github project
 script 2 
 script cmd windows
 test mbl
+test2
